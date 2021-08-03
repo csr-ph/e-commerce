@@ -11,3 +11,7 @@ Type npm start in the terminal to start the app.
 ## Github link
 
 https://github.com/csr-ph/e-commerce
+
+## Walkthrough
+
+https://youtu.be/4KJsxiOSihQ
